@@ -17,7 +17,7 @@ const projects = {
     problem: 'Travel planning often feels scattered, with users switching between multiple tools, comparing too much information, and losing clarity during the booking process. The challenge was to design one intuitive mobile experience that could guide users from trip idea to booking while keeping the interface visually engaging and easy to use.',
     process: 'I started by mapping the chat-to-booking flow to identify key user decisions and reduce unnecessary steps. Then I created low-fidelity wireframes to explore the conversation structure, followed by high-fidelity mobile screens in Figma with immersive visuals, gradient overlays, and interactive content cards. I also refined micro-interactions and transitions using Smart Animate to make the journey feel more fluid and engaging.',
     tools: ['Figma', 'Adobe XD', 'User Flow Mapping', 'Wireframing', 'High-fidelity Prototyping'],
-    outcome: 'Designed a high-fidelity, conversation-led travel app experience that simplifies trip discovery and booking while improving visual appeal and interaction flow. Add your usability metric here if you have one, such as faster task completion, improved navigation clarity, or positive peer feedback.',
+    outcome: 'Designed a high-fidelity, conversation-led travel app experience that simplifies trip discovery and booking while improving visual appeal and interaction flow.',
     outcomeIsPlaceholder: true,
     links: [
       { type: 'figma', label: 'Figma Link', url: 'https://www.figma.com/proto/49ncyZYzDhmrJuSeyjLR4n/Travel-Tech?node-id=69-132&p=f&t=4TZzr2pL3d6P2YIG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=69%3A2' },
@@ -36,7 +36,7 @@ const projects = {
     problem: 'Smart home apps often feel too technical, cluttered, or disconnected from how people actually interact with physical devices. The challenge was to design an interface that bridges the digital and physical world, making device control feel natural, instant, and easy to understand.',
     process: 'I began by defining room-based environments such as living room and kitchen, then mapped the primary home overview screen with a clean, device-focused grid layout. I designed tactile components like circular thermostat sliders and realistic toggles, used component variants for different device states, and added visual feedback such as shadows, glows, and color cues to make interactions feel responsive. I also prototyped room transitions and thermostat behavior using variables to create a more functional and interactive experience.',
     tools: ['Figma', 'Adobe XD', 'Component Design', 'Interactive Prototyping'],
-    outcome: 'Designed a highly interactive smart home prototype that improves usability through tactile controls, immediate feedback, and a simple control flow for everyday device management. Add your own outcome metric here if you have one, such as prototype feedback, usability results, or reviewer comments.',
+    outcome: 'Designed a highly interactive smart home prototype that improves usability through tactile controls, immediate feedback, and a simple control flow for everyday device management',
     outcomeIsPlaceholder: true,
     links: [
       { type: 'figma', label: 'Figma Link', url: 'https://www.figma.com/proto/xjJKMYVB7vWxEmMcJSnhSw/NexusHome?node-id=55-3&starting-point-node-id=55%3A221&t=cUQTYDAKXAtgqclH-1' },
@@ -86,55 +86,55 @@ const projects = {
     title: 'Online Bankng — Mobile App ',
     category: 'UI/UX · fintech',
     org: 'ILife Technologies — Internship',
-    image: 'banking.png',
+    image: 'elite.png',
     imageAlt: 'Internet Banking — user dashboard ',
     tags: ['UI/UX Design', 'Healthcare', 'Accessibility', 'Trust Design'],
-    overview: 'VitalLink is an accessibility-first telemedicine platform designed during my internship at Zaalima Development. The project was created for elderly users who need a simple, clear way to schedule and join video consultations with doctors.',
-    problem: 'Healthcare apps can become confusing when they rely on small text, weak contrast, and crowded interfaces. For older users and people with visual or motor skill challenges, even basic tasks like joining a call or canceling an appointment can feel difficult. The challenge was to design a calm, highly readable experience with minimum friction and maximum clarity.',
-    process: 'I started with empathy mapping and accessibility checks, then designed the core flow around the most important action: joining a video call through a single, high-contrast button. I also created medication reminder cards, oversized feedback states, and error-safe confirmation patterns for sensitive actions. The interface was built to follow WCAG 2.1 AA standards, with large touch targets, strong contrast, and screen-reader-ready annotations for key elements.',
-    tools: ['Figma', 'Adobe XD', 'Information Architecture', 'User Journey Mapping', 'Accessibility Testing'],
-    outcome: 'Designed a clear and accessible telemedicine experience that reduces cognitive load, supports older users, and makes essential healthcare actions easier to complete with confidence.',
+    overview: 'Elite Bank is a mobile banking concept for everyday customers. It covers registration, secure PIN and fingerprint login, account and card management, transfers, loans, statements, and an ATM locator. The design uses a calm blue palette, Poppins typography, and a bottom navigation with a quick QR-scan button for fast access to key actions.',
+    problem: 'Many banking apps feel cluttered and confusing, which makes it hard for users to find the right feature and finish transactions smoothly. Users also worry about security and want quick access to balances, payments, and loan details.',
+    process: 'The project began with research into common banking frustrations, such as cluttered interfaces, security worries, transaction limits, and difficulty finding key features. These insights were turned into user personas and an empathy map to define what customers need and feel. Next, a complete user flow was mapped, covering registration, OTP verification, login, home, services, and logout. A consistent design system was then created, with the color palette, Poppins typography, icons, cards, buttons, and navigation components. Using this foundation, more than 50 high-fidelity screens were designed in Google Stitch, including onboarding, home, transfer, loan, statement, and ATM locator. Finally, the screens were connected into an interactive prototype and tested in Play mode to check the flow and fix navigation gaps.',
+    tools: ['Figma', 'Stitch', 'Information Architecture', 'User Journey Mapping', 'Accessibility Testing'],
+    outcome: 'A consistent, easy-to-navigate banking app with 50+ screens and a clickable prototype that shows the complete user journey. The simple layout, clear service grid, and secure login options make everyday banking faster and less confusing.',
     outcomeIsPlaceholder: true,
     links: [
-      { type: 'figma', label: 'Figma Link', url: 'https://www.figma.com/proto/jPUxaamw4DkX5cT6v46p8V/Group-5-Projects?node-id=693-30570&p=f&t=yGSm14IXP0rdDu50-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A3&starting-point-node-id=693%3A30578' },
-      { type: 'demo', label: 'Live Demo', url: 'https://www.linkedin.com/posts/kakashprofile_uiux-productdesign-figma-activity-7447458997974097920-1LzD?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' },
-      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/kakashprofile_uiuxdesign-internshipexperience-productdesign-activity-7449843614798602241-iw1W?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' }
+      { type: 'figma', label: 'Figma Link', url: 'https://www.figma.com/design/yrPP4WwC1Dpi5sz1r0gue4/Elite-Bank-Application?node-id=0-1&t=VkMeWvcgpwj1iqVa-1' },
+      //{ type: 'demo', label: 'Live Demo', url: 'https://www.linkedin.com/posts/kakashprofile_uiux-productdesign-figma-activity-7447458997974097920-1LzD?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' },
+      //{ type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/kakashprofile_uiuxdesign-internshipexperience-productdesign-activity-7449843614798602241-iw1W?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' }
     ]
   },
   chatbot: {
     title: 'EV Charging Assistant Chatbot ',
     category: 'AI/ML · ChatBot',
     org: 'Edunet Foundations — Internship',
-    image: 'vitalink.png',
+    image: 'evassistant.png',
     imageAlt: 'EV Charging Assistant platform — user chat and dashboard',
-    tags: ['UI/UX Design', 'Healthcare', 'Accessibility', 'Trust Design'],
+    tags: ['AI Chat Bot', 'Sustainability'],
     overview: 'The EV Charging Assistant is an AI-powered chatbot developed during my AI & Data Analytics Internship at Edunet Foundation (AICTE & Shell Skills4Future). The chatbot assists electric vehicle users by answering charging-related queries, recommending suitable charging stations, and providing intelligent guidance through natural language conversations.',
     problem: 'As EV adoption grows, users often struggle to find reliable charging information, understand charger availability, and resolve charging-related questions quickly. Existing solutions typically require navigating multiple platforms, making the process inefficient and time-consuming.',
     process: 'I designed and developed the chatbot by identifying common EV charging scenarios and structuring conversational flows around user intent. The application leverages AI to understand user queries and provide relevant responses related to charging stations, charging guidance, and EV support. The focus was on creating a fast, intuitive, and reliable conversational experience.',
-    tools: ['Python', 'Google Gemini Api', 'Streamlit', 'Natural Language Processing', 'ChatBot Development'],
-    outcome: 'Designed a clear and accessible telemedicine experience that reduces cognitive load, supports older users, and makes essential healthcare actions easier to complete with confidence.',
+    tools: ['Python', 'Google Gemini Api', 'Render', 'Natural Language Processing', 'ChatBot Development'],
+    outcome: 'Developed an AI-powered chatbot that simplifies EV charging assistance by providing quick responses, relevant charging station recommendations, and user-friendly guidance through natural language conversations.',
     outcomeIsPlaceholder: true,
     links: [
-      { type: 'demo', label: 'Live Demo', url: 'https://www.linkedin.com/posts/kakashprofile_uiux-productdesign-figma-activity-7447458997974097920-1LzD?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' },
-      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/kakashprofile_uiuxdesign-internshipexperience-productdesign-activity-7449843614798602241-iw1W?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' }
+      { type: 'demo', label: 'Live Demo', url: 'https://akash-kaliyamoorthy.github.io/EV-Assistant/' },
+      { type: 'github', label: 'Github Link', url: 'https://github.com/Akash-Kaliyamoorthy/EV-Assistant' }
     ]
     },
-  aichatbot: {
-    title: '1M1B sustainabilty Chatbot ',
-    category: 'AI/ML · ChatBot',
-    org: '1M1B — Internship',
-    image: 'vitalink.png',
-    imageAlt: 'EV Charging Assistant platform — user chat and dashboard',
-    tags: ['UI/UX Design', 'Healthcare', 'Accessibility', 'Trust Design'],
-    overview: 'The EV Charging Assistant is an AI-powered chatbot developed during my AI & Data Analytics Internship at Edunet Foundation (AICTE & Shell Skills4Future). The chatbot assists electric vehicle users by answering charging-related queries, recommending suitable charging stations, and providing intelligent guidance through natural language conversations.',
-    problem: 'As EV adoption grows, users often struggle to find reliable charging information, understand charger availability, and resolve charging-related questions quickly. Existing solutions typically require navigating multiple platforms, making the process inefficient and time-consuming.',
-    process: 'I designed and developed the chatbot by identifying common EV charging scenarios and structuring conversational flows around user intent. The application leverages AI to understand user queries and provide relevant responses related to charging stations, charging guidance, and EV support. The focus was on creating a fast, intuitive, and reliable conversational experience.',
-    tools: ['Python', 'Google Gemini Api', 'Streamlit', 'Natural Language Processing', 'ChatBot Development'],
-    outcome: 'Designed a clear and accessible telemedicine experience that reduces cognitive load, supports older users, and makes essential healthcare actions easier to complete with confidence.',
+  athenura: {
+    title: 'Brand Campaigns & Visual Creatives ',
+    category: 'Graphic Design · Branding',
+    org: 'Athenura — Internship',
+    image: 'cover.png',
+    imageAlt: 'Social Media Creeaives',
+    tags: ['Graphic Design', 'Branding', 'Social Media Campaign'],
+    overview: 'A collection of visual design projects created during my graphic design internship, covering social media campaigns, promotional posters, client creatives, thumbnails, and logo designs. The project showcases my ability to translate ideas into engaging, brand-focused visual communication.',
+    problem: 'Creating visually compelling content that captures audience attention, communicates messages clearly, and maintains consistency across different brands, platforms, and campaign objectives',
+    process: 'The process began with understanding project briefs, brand guidelines, target audiences, and campaign objectives. I explored visual references and developed creative concepts, followed by designing layouts, selecting typography, colors, and imagery to create engaging visuals. Each design was refined through feedback and iterations to ensure clarity, consistency, and visual impact before delivering polished, platform-ready creative assets.',
+    tools: ['Adobe Photoshop' , 'Adobe Illustrator' , 'Canva','ChatGPT'],
+    outcome: 'Created a diverse collection of professional visual assets, strengthening my skills in visual storytelling, brand communication, creative execution, and adapting designs to different audiences and platforms.',
     outcomeIsPlaceholder: true,
     links: [
-      { type: 'demo', label: 'Live Demo', url: 'https://www.linkedin.com/posts/kakashprofile_uiux-productdesign-figma-activity-7447458997974097920-1LzD?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' },
-      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/kakashprofile_uiuxdesign-internshipexperience-productdesign-activity-7449843614798602241-iw1W?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' }
+      { type: 'demo', label: 'View Broject', url: 'https://www.behance.net/gallery/257238267/Social-Media-Creatives' },
+      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://lnkd.in/p/grrXRFU4' }
     ]
   },
   Networkintrusion: {
@@ -144,15 +144,15 @@ const projects = {
     image: 'voisproject.png',
     imageAlt: 'EV Charging Assistant platform — user chat and dashboard',
     tags: ['UI/UX Design', 'Cyber Security', 'Accessibility', 'Trust Design'],
-    overview: 'The EV Charging Assistant is an AI-powered chatbot developed during my AI & Data Analytics Internship at Edunet Foundation (AICTE & Shell Skills4Future). The chatbot assists electric vehicle users by answering charging-related queries, recommending suitable charging stations, and providing intelligent guidance through natural language conversations.',
-    problem: 'As EV adoption grows, users often struggle to find reliable charging information, understand charger availability, and resolve charging-related questions quickly. Existing solutions typically require navigating multiple platforms, making the process inefficient and time-consuming.',
-    process: 'I designed and developed the chatbot by identifying common EV charging scenarios and structuring conversational flows around user intent. The application leverages AI to understand user queries and provide relevant responses related to charging stations, charging guidance, and EV support. The focus was on creating a fast, intuitive, and reliable conversational experience.',
-    tools: ['Python', 'Google Gemini Api', 'Streamlit', 'Natural Language Processing', 'ChatBot Development'],
+    overview: 'A cybersecurity project developed during the VOIS for Tech & Edunet Foundation internship, combining machine learning and Generative AI to identify suspicious network activity and provide intelligent threat analysis.',
+    problem: 'Traditional network monitoring systems can struggle to identify complex attack patterns and explain detected threats, making it challenging to interpret network traffic and respond effectively to potential security risks.',
+    process: 'Analyzed network traffic data and prepared it for machine learning. Trained a Random Forest model to classify network activity as benign or malicious, then integrated Groq-powered Generative AI to explain detected packets and provide understandable threat insights through an interactive dashboard.',
+    tools: ['Python', 'Groq Api', 'Natural Language Processing', 'Hugging Face Spaces'],
     outcome: 'Designed a clear and accessible telemedicine experience that reduces cognitive load, supports older users, and makes essential healthcare actions easier to complete with confidence.',
     outcomeIsPlaceholder: true,
     links: [
-      { type: 'demo', label: 'Live Demo', url: 'https://www.linkedin.com/posts/kakashprofile_uiux-productdesign-figma-activity-7447458997974097920-1LzD?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' },
-      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/kakashprofile_uiuxdesign-internshipexperience-productdesign-activity-7449843614798602241-iw1W?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' }
+      { type: 'demo', label: 'Live Demo', url: 'https://huggingface.co/spaces/Akash-Kaliyamoorthy/Ai-Network-Scan' },
+      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://lnkd.in/p/gzv_TJwV' }
     ]
   },
   smsystem: {
@@ -177,36 +177,54 @@ const projects = {
     title: 'RubeElix — Brand Identity',
     category: 'Branding · Identity Design',
     org: 'Startup Branding Project',
-    image: null,
-    imageAlt: null,
+    image: 'rubeElicx.jpg',
+    imageAlt: 'RubeElix Design Work',
     tags: ['Brand Identity', 'Graphic Design', 'Startup'],
     overview: 'A complete brand identity system designed for RubeElix, a startup looking to establish a distinctive visual presence and build meaningful connection with their target audience.',
     problem: 'RubeElix lacked a coherent visual identity — their early materials were inconsistent and failed to communicate their brand personality clearly, resulting in weak audience recognition and low engagement with their content.',
     process: 'Conducted brand discovery sessions to identify core values, target audience, and competitive positioning. Developed logo concepts exploring multiple visual directions before refining the final mark. Built out a complete identity system including logo variations, typography, colour palette, brand voice guidelines, and application templates for social media and marketing materials.',
     tools: ['Adobe Illustrator', 'Photoshop', 'Brand Strategy', 'Typography System', 'Colour Theory'],
-    outcome: '30% improvement in audience connection following brand identity implementation. [ADD PROJECT SCREENSHOT — brand guidelines and application visuals]',
+    outcome: '30% improvement in audience connection following brand identity implementation.Developed a cohesive and distinctive brand identity for RubeElix, establishing a consistent visual language across digital and marketing touchpoints. The final identity strengthened brand recognition, communicated the startup’s personality more effectively, and provided a scalable design system for future growth and communication.',
     outcomeIsPlaceholder: false,
     links: [
-      { type: 'figma', label: 'Project Link', url: '#' },
-      { type: 'linkedin', label: 'View Post', url: '#' }
+      { type: 'demo', label: 'View Project', url: 'https://www.behance.net/gallery/246077757/Brand-Identity-Logo-Design' },
+      //{ type: 'linkedin', label: 'View Post', url: '#' }
     ]
   },
   aquaflex: {
     title: 'Aqua Flex — Brand Identity',
     category: 'Branding · Identity Design',
-    org: 'Startup Branding Project',
-    image: null,
-    imageAlt: null,
-    tags: ['Brand Identity', 'Graphic Design', 'Startup'],
-    overview: 'A brand identity refresh and visual system designed for Aura Pvt. Ltd, with the goal of strengthening their online presence and increasing customer engagement.',
-    problem: 'Aura Pvt. Ltd had an existing brand that wasn\'t resonating with their online audience — engagement metrics were low, and their digital presence lacked the visual consistency and appeal needed to build customer trust and conversion at scale.',
-    process: 'Audited existing brand materials and digital presence to identify key inconsistency points. Developed a refined brand identity maintaining elements of brand equity while introducing stronger visual hierarchy, a more cohesive colour system, and modernised typography. Created a comprehensive application system including social media templates, digital marketing assets, and updated brand guidelines.',
-    tools: ['Adobe Illustrator', 'Photoshop', 'Canva', 'Brand Audit', 'Social Media Design System'],
-    outcome: '30% increase in online customer engagement following brand identity implementation. [ADD PROJECT SCREENSHOT — brand materials and social media applications]',
+    org: 'Social Media Branding',
+    image: 'aquaflex.jpg',
+    imageAlt: 'Aqua Flex Branding Image',
+    tags: ['Branding', 'Graphic Design', 'Campaign'],
+    overview: 'A product-focused promotional poster designed for Aqua Flex, a water tank manufacturing company, to showcase its product and strengthen its visual presence through impactful advertising.',
+    problem: 'Communicating the product’s quality, reliability, and key features in a visually engaging way while capturing customer attention and reinforcing brand credibility in a competitive market.',
+    process: 'Analyzed the product and promotional objectives to identify key selling points. Developed a visual concept highlighting the water tank through a strong product-focused composition, clear typography, brand colors, and supporting promotional elements. Refined the layout to ensure a balance between product visibility, message clarity, and brand identity.',
+    tools: [ 'Photoshop', 'Canva', 'Illustrator'],
+    outcome: 'Created a compelling promotional poster that highlights Aqua Flex’s product offering, communicates its value clearly, and enhances the brand’s marketing presence through a polished, attention-grabbing visual.',
     outcomeIsPlaceholder: false,
     links: [
-      { type: 'figma', label: 'Figma Link', url: '#' },
-      { type: 'linkedin', label: 'LinkedIn Post', url: '#' }
+      { type: 'demo', label: 'View Project', url: 'https://www.behance.net/gallery/246044019/Social-Media-Promotional-Design' },
+      //{ type: 'linkedin', label: 'LinkedIn Post', url: '#' }
+    ]
+  },
+  kings: {
+    title: 'College — Event Branding',
+    category: 'Branding · Identity Design',
+    org: 'Social Media Branding',
+    image: 'kings.jpg',
+    imageAlt: 'College Event Branding Image',
+    tags: ['Branding', 'Graphic Design', 'Campaign'],
+    overview: 'Designed a range of visual communication assets for college events, ensuring a unified and engaging presentation across both promotional and event-related materials. The project focused on combining creativity, clarity, and consistency to enhance the overall event identity.',
+    problem: 'Creating multiple event materials that maintain a consistent visual identity while effectively communicating event information. Each design needed to serve a different purpose while following a unified creative direction.',
+    process: 'Started by understanding the event requirements, theme, and communication objectives. Developed visual concepts by exploring suitable color palettes, typography, layouts, and graphic elements. Designed individual assets while maintaining consistency across all materials, refining compositions and content placement to ensure readability, visual appeal, and a cohesive event identity.',
+    tools: [ 'Photoshop', 'Canva'],
+    outcome: 'Created a coordinated set of event branding materials that strengthened visual consistency, improved event communication, and delivered a professional identity across promotional and on-site event touchpoints.',
+    outcomeIsPlaceholder: false,
+    links: [
+      { type: 'demo', label: 'View Project', url: 'https://www.behance.net/gallery/246143181/College-Event-Branding' },
+      //{ type: 'linkedin', label: 'LinkedIn Post', url: '#' }
     ]
   },
   social: {
@@ -220,7 +238,7 @@ const projects = {
     problem: 'Producing high-volume social content at quality requires both design system thinking (consistency, template scalability) and creative flexibility (fresh executions that don\'t feel templated). The challenge was building a visual system that enabled fast production without sacrificing brand coherence.',
     process: 'Built a reusable component library and template system in Canva and Photoshop to enable consistent, fast creative production. Designed assets across multiple formats (square, story, landscape) and campaign types. Maintained visual consistency across all touchpoints while adapting tone and composition for different content themes.',
     tools: ['Photoshop', 'Illustrator', 'Canva'],
-    outcome: '[ADD OUTCOME METRIC — engagement data, reach, or campaign performance if available] [ADD PROJECT SCREENSHOT — sample social media creatives]',
+    outcome: 'Created a consistent collection of engaging social media creatives across multiple formats, improving design efficiency, speeding up content production, and maintaining brand identity while supporting diverse campaign themes.',
     outcomeIsPlaceholder: true,
     links: [
       { type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/academyinnovaworld_nationalyouthday-youthpower-swamivivekananda-activity-7416409676495474688-ba-7?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc&utm_campaign=copy_link' },
@@ -231,38 +249,38 @@ const projects = {
     title: 'Daily Expense Tracker',
     category: 'Product Design · Web Development',
     org: 'Personal Project',
-    image: null,
-    imageAlt: null,
-    tags: ['Product Design', 'Web App', 'Full-cycle', 'Personal Project'],
-    overview: 'A personal project exploring the complete design-to-code cycle. Built a daily expense tracking web application — from initial product thinking and UX design through to front-end implementation — as a way of strengthening both design and development fluency simultaneously.',
-    problem: 'Existing expense tracking apps either over-engineer the data view (dashboards no one actually reads daily) or under-invest in the entry experience (friction-heavy forms that kill habit formation). The goal was to design and build something genuinely usable and quick to interact with every day.',
-    process: 'Defined core user jobs-to-be-done: fast expense logging, clear daily/weekly totals, and minimal friction. Sketched wireframes, designed hi-fi screens in Figma, then implemented the design in HTML, CSS, and JavaScript — personally managing the handoff between design intent and code reality. This cross-disciplinary process significantly deepened my appreciation of implementation constraints in design decisions.',
-    tools: ['Figma', 'HTML', 'CSS', 'JavaScript'],
-    outcome: '[ADD OUTCOME METRIC] — Completed full design-to-code cycle end-to-end. [ADD LIVE LINK or GITHUB REPO LINK if available] [ADD PROJECT SCREENSHOT]',
+    image: 'Det.png',
+    imageAlt: 'Daily Expence tracker Image',
+    tags: ['Product Design', 'Web App', 'Finance management', 'Personal Project'],
+    overview: 'Users enter their salary, other income, loans and EMIs, fixed bills and a savings goal once a month. The app divides what is left across the days of the month and tracks every expense against it. A dashboard shows today’s remaining budget, a green, amber or red progress bar, spending charts, bills due this week and warnings. Reports show monthly summaries and CSV export, and the app supports dark mode and works on phones.',
+    problem: 'Most expense apps only record what you have already spent. Salaried people in India have fixed commitments like EMIs, rent and bills, so the real question is how much they can spend today without running out before month end. Notebooks and spreadsheets make this tedious, and a bad month is easy to notice too late.',
+    process: 'I started with the money rules: income minus EMIs, fixed expenses and the savings goal, divided by the days in the month. I then designed a PostgreSQL database that stores money as exact decimals, built a secure Express API, and handled edge cases like zero salary, short months and deleted categories. I designed the interface around a ledger-book look, tested every page in light and dark mode on desktop and mobile, wrote 90 automated tests, and deployed it from GitHub to Render.',
+    tools: ['React', 'Node.js', 'PostgreSQL', 'Render','GitHub'],
+    outcome: 'The app is live and working, with accounts, monthly setup, expense tracking, reports and CSV export. It has 90 passing automated tests, and the build and tests run on GitHub for every change. It handles real cases like short months, overspending and deleted categories without breaking. Next steps could include password reset by email, shared family budgets, receipt photos and bank statement import.',
     outcomeIsPlaceholder: true,
     links: [
-      { type: 'github', label: 'GitHub Link', url: 'https://github.com/Akash-Kaliyamoorthy' },
-      { type: 'demo', label: 'Live Demo', url: '#' },
-      { type: 'figma', label: 'Figma Link', url: '#' }
+      { type: 'github', label: 'GitHub Link', url: 'https://github.com/Akash-Kaliyamoorthy/daily-expense-tracker' },
+      { type: 'demo', label: 'View Project', url: 'https://daily-expense-tracker-be0c.onrender.com/' },
+      { type: 'linkedin', label: 'Linked Post', url: '#' }
     ]
   },
   lmsystem: {
-    title: 'Learning Management System',
+    title: 'Learning Management System for Engineering Institutions',
     category: 'Product Design · Web Development',
     org: 'Personal Project',
-    image: null,
-    imageAlt: null,
+    image: 'edulms.png',
+    imageAlt: 'EduLMS screenshot',
     tags: ['Product Design', 'Web App', 'Full-cycle', 'Personal Project'],
-    overview: 'A personal project exploring the complete design-to-code cycle. Built a daily expense tracking web application — from initial product thinking and UX design through to front-end implementation — as a way of strengthening both design and development fluency simultaneously.',
-    problem: 'Existing expense tracking apps either over-engineer the data view (dashboards no one actually reads daily) or under-invest in the entry experience (friction-heavy forms that kill habit formation). The goal was to design and build something genuinely usable and quick to interact with every day.',
-    process: 'Defined core user jobs-to-be-done: fast expense logging, clear daily/weekly totals, and minimal friction. Sketched wireframes, designed hi-fi screens in Figma, then implemented the design in HTML, CSS, and JavaScript — personally managing the handoff between design intent and code reality. This cross-disciplinary process significantly deepened my appreciation of implementation constraints in design decisions.',
-    tools: ['Figma', 'HTML', 'CSS', 'JavaScript'],
-    outcome: '[ADD OUTCOME METRIC] — Completed full design-to-code cycle end-to-end. [ADD LIVE LINK or GITHUB REPO LINK if available] [ADD PROJECT SCREENSHOT]',
+    overview: 'EduLMS brings essential academic activities into one platform, helping students and faculty access learning resources, manage coursework, and organize educational activities efficiently.',
+    problem: 'Traditional academic workflows often rely on scattered resources, manual processes, and disconnected tools, making it difficult to organize learning materials and manage academic activities effectively.',
+    process: 'Our team identified academic management challenges, planned the platform structure, designed the user interface, developed the web application, and tested its functionality to create a streamlined learning experience.',
+    tools: ['Versel', 'HTML', 'CSS', 'JavaScript'],
+    outcome: 'Developed and deployed a centralized LMS web application that supports digital learning and improves the accessibility and organization of academic resources for engineering institutions.',
     outcomeIsPlaceholder: true,
     links: [
       { type: 'github', label: 'GitHub Link', url: 'https://github.com/Akash-Kaliyamoorthy' },
-      { type: 'demo', label: 'Live Demo', url: '#' },
-      { type: 'figma', label: 'Figma Link', url: '#' }
+      { type: 'demo', label: 'Live Demo', url: 'https://lmsforinstitutions.vercel.app/' },
+      //{ type: 'figma', label: 'Figma Link', url: '#' }
     ]
   }
 };
@@ -386,8 +404,8 @@ const experiences = {
   certImage: 'ilife cert.jpg', // optional
   description: 'Working as a UI/UX Design Intern at ILIFE Technologies, Trichy, I gained practical experience in user-centered design by learning industry-standard UI/UX principles and applying them to real-world projects. Throughout this intensive 30-day onsite internship, I explored the complete design process—from user research and wireframing to high-fidelity interface design, prototyping, and usability testing using Figma. Collaborating with fellow interns, I transformed ideas into intuitive digital experiences while strengthening my creative thinking, problem-solving, and design decision-making skills. As part of the internship, our team successfully designed and developed a complete Online Banking Mobile Application, applying modern UI/UX practices to create a secure, accessible, and user-friendly banking experience.',
   links: [
-    { type: 'linkedin', label: 'LinkedIn Post', url: '#' },
-    { type: 'project', label: 'Project Link', url: '#' }
+    { type: 'linkedin', label: 'LinkedIn Post', url: 'https://lnkd.in/p/gy7r_8HK' },
+    { type: 'project', label: 'Project Link', url: 'https://www.figma.com/design/yrPP4WwC1Dpi5sz1r0gue4/Elite-Bank-Application?node-id=0-1&t=VkMeWvcgpwj1iqVa-1' }
   ]
 },
 
@@ -398,8 +416,8 @@ const experiences = {
     certImage: '0.jpg',
     description: 'Designed social media creatives, posters, and marketing materials using Adobe Photoshop and Illustrator. Developed visually engaging assets aligned with brand identity and campaign goals, delivering creative work within deadline across multiple concurrent campaigns for the studio\'s clients.',
     links: [
-      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/kakashprofile_graphicdesign-internshipcompletion-creativedesign-activity-7437891551931895808-kbIt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc' },
-      { type: 'project', label: 'Project Link', url: 'https://www.behance.net/gallery/246037575/Social-Media-Wishing-Posts' }
+      { type: 'linkedin', label: 'LinkedIn Post', url: 'https://lnkd.in/p/grrXRFU4' },
+      { type: 'project', label: 'Project Link', url: 'https://www.behance.net/gallery/257238267/Social-Media-Creatives' }
     ]
   },
   academy: {
@@ -443,7 +461,7 @@ const experiences = {
     description: 'Applied AI concepts to sustainability challenges including climate change and waste management. Built AI chatbots for problem-solving and user interaction, and worked on mini-projects and case studies integrating AI with real-world environmental solutions.',
     links: [
       { type: 'linkedin', label: 'LinkedIn Post', url: 'https://www.linkedin.com/posts/kakashprofile_aiforsustainability-aiskillspassport-ecosortai-activity-7434782274593677312-iJU0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEkPLo8BlqJC6D6zJWsKRuscJz9C5_jlOsc' },
-      { type: 'project', label: 'Project Link', url: 'https://media.licdn.com/dms/image/v2/D5622AQHl6laX_q_qQg/feedshare-image-high-res/B56Zy2nEDOH8AU-/0/1772590219706?e=1785974400&v=beta&t=H1NHwjTYrCf6bmYR0l9M42bDWKCSGrI7FV5llGBVxyg' }
+      //{ type: 'project', label: 'Project Link', url: 'https://media.licdn.com/dms/image/v2/D5622AQHl6laX_q_qQg/feedshare-image-high-res/B56Zy2nEDOH8AU-/0/1772590219706?e=1785974400&v=beta&t=H1NHwjTYrCf6bmYR0l9M42bDWKCSGrI7FV5llGBVxyg' }
     ]
   },
   logirtha: {
@@ -892,65 +910,6 @@ document.querySelectorAll('img').forEach(img => {
   });
 });
 
-/* ---- Custom Cursor ---- */
-function setupCustomCursor() {
-  const isFinePointer = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-  if (!isFinePointer) return;
-
-  const dot = document.getElementById('cursor-dot');
-  const ring = document.getElementById('cursor-ring');
-  const label = document.getElementById('cursor-ring-label');
-  if (!dot || !ring) return;
-
-  document.body.classList.add('has-custom-cursor');
-
-  let mouseX = 0, mouseY = 0;
-  let ringX = 0, ringY = 0;
-  let active = false;
-
-  window.addEventListener('mousemove', (e) => {
-    mouseX = e.clientX;
-    mouseY = e.clientY;
-    dot.style.transform = `translate(${mouseX}px, ${mouseY}px)`;
-    if (!active) {
-      active = true;
-      document.body.classList.add('cursor-active');
-    }
-  }, { passive: true });
-
-  window.addEventListener('mouseleave', () => {
-    document.body.classList.remove('cursor-active');
-  });
-
-  function animateRing() {
-    ringX += (mouseX - ringX) * 0.16;
-    ringY += (mouseY - ringY) * 0.16;
-    ring.style.transform = `translate(${ringX}px, ${ringY}px)`;
-    requestAnimationFrame(animateRing);
-  }
-  animateRing();
-
-  const hoverMap = [
-    { selector: '.project-card', text: 'View' },
-    { selector: '.cert-card', text: 'Details' },
-    { selector: '.timeline-card, .explore-card', text: 'View' },
-    { selector: 'a, button', text: '' }
-  ];
-
-  hoverMap.forEach(({ selector, text }) => {
-    document.querySelectorAll(selector).forEach(el => {
-      el.addEventListener('mouseenter', () => {
-        ring.classList.add('ring-hover');
-        label.textContent = text;
-      });
-      el.addEventListener('mouseleave', () => {
-        ring.classList.remove('ring-hover');
-        label.textContent = '';
-      });
-    });
-  });
-}
-
 /* ---- Hero Canvas: generative particle network + video handoff ---- */
 function setupHeroCanvas() {
   const canvas = document.getElementById('hero-canvas');
@@ -971,6 +930,8 @@ function setupHeroCanvas() {
   let w, h, dpr;
   let particles = [];
   let mouseX = null, mouseY = null;
+  let heroVisible = true;
+  let rafId = null;
 
   function resize() {
     dpr = Math.min(window.devicePixelRatio || 1, 2);
@@ -1034,7 +995,11 @@ function setupHeroCanvas() {
       ctx.fill();
     });
 
-    if (!reducedMotion) requestAnimationFrame(step);
+    if (!reducedMotion && heroVisible) {
+      rafId = requestAnimationFrame(step);
+    } else {
+      rafId = null;
+    }
   }
 
   resize();
@@ -1046,11 +1011,17 @@ function setupHeroCanvas() {
   }, { passive: true });
   hero.addEventListener('mouseleave', () => { mouseX = null; mouseY = null; });
 
-  step();
-  if (reducedMotion) {
-    // Draw a single static frame instead of a running loop
-    setTimeout(() => {}, 0);
+  // Pause the animation while the hero is off-screen so scrolling stays smooth
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver((entries) => {
+      heroVisible = entries[0].isIntersecting;
+      if (heroVisible && rafId === null && !reducedMotion) {
+        rafId = requestAnimationFrame(step);
+      }
+    }).observe(hero);
   }
+
+  step();
 }
 
 /* ---- Skill Proficiency Rings ----
@@ -1220,7 +1191,6 @@ document.addEventListener('DOMContentLoaded', () => {
   setupRevealAnimations();
   setupActiveNavLinks();
   setupSmoothScrollOffset();
-  setupCustomCursor();
   setupHeroCanvas();
   setupTiltCards();
   setupSkillsFilter();
