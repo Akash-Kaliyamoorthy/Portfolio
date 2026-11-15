@@ -261,7 +261,7 @@ const projects = {
     links: [
       { type: 'github', label: 'GitHub Link', url: 'https://github.com/Akash-Kaliyamoorthy/daily-expense-tracker' },
       { type: 'demo', label: 'View Project', url: 'https://daily-expense-tracker-be0c.onrender.com/' },
-      { type: 'linkedin', label: 'Linked Post', url: '#' }
+      { type: 'linkedin', label: 'Linked Post', url: 'https://lnkd.in/p/gqnNNY3z' }
     ]
   },
   lmsystem: {
